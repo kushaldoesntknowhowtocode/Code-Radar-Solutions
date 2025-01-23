@@ -5,6 +5,6 @@ int main()
     float num;
    // clrscr();
     scanf("%f",&num);
-    printf("%o.2f",num);  
-    //return 0;
+    printf("%.2f",num);  
+    return 0;
 }
