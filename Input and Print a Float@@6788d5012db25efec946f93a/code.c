@@ -4,7 +4,7 @@ int main()
 {
     float num;
    // clrscr();
-    scanf("%.2f",&num);
-    printf("%.2f",num);  
+    scanf("%f",&num);
+    printf("You entered:%.2f",num);  
     return 0;
 }
