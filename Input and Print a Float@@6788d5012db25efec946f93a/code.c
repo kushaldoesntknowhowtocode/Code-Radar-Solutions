@@ -1,6 +1,7 @@
 #include <stdio.h>
 //#include <conio.h>
-int main(){
+int main()
+{
     float num;
    // clrscr();
     scanf("%f",&num);
