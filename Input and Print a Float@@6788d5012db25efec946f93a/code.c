@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    float int;
-    int=scanf("input: ")
-    printf(int)
+    float in;
+    scanf("in")
+    printf(in)
 }
