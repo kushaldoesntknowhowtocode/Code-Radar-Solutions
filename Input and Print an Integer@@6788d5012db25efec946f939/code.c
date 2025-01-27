@@ -2,6 +2,6 @@
 main(){
     int a;
     scanf("%d",&a);
-    print("You entered: %d",a);
+    printf("You entered: %d",a);
     return 0;
 }
