@@ -3,5 +3,6 @@ int main(){
     int a,b;
     scanf("%d",&a);
     scanf("%d",&b);
-    print("Sum: %d",a+b);
+    c=a+b
+    print("Sum: %d",c);
 }
