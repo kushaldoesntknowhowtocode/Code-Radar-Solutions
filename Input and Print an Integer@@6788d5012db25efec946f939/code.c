@@ -2,6 +2,6 @@
 main(){
     int a;
     scanf("%d",&a);
-    print("You enered: %2d",a);
+    print("You enered: %d",a);
     return 0;
 }
