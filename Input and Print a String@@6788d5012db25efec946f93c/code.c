@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 int main(){
     char[100] s;
     scanf("%c",&s);
