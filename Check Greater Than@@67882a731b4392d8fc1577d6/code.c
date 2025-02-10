@@ -2,11 +2,11 @@
 
 int main() {
     int a, b;
-    scanf("%d,%d", &a, &b);
+    scanf("%d %d", &a, &b); // Corrected the format specifier
     if (a > b) {
-        printf("True");
+        printf("True\n"); // Added a newline character for better output formatting
     } else {
-        printf("False");
+        printf("False\n"); // Added a newline character for better output formatting
     }
     return 0;
 }
