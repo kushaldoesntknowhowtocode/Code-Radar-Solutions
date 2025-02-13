@@ -11,9 +11,9 @@ int main() {
 
     // Check if at least one of the numbers is greater than zero
     if (num1 > 0 || num2 > 0) {
-        printf("At least one of the numbers is greater than zero.\n");
+        printf("True");
     } else {
-        printf("Neither of the numbers is greater than zero.\n");
+        printf("False");
     }
 
     return 0;
