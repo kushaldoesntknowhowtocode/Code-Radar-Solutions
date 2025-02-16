@@ -1,0 +1,1 @@
+[{"index":7,"id":"67b0eb4a17930522cbe25a15","title":"Procedure-oriented programming approach","correctAnswer":"top-down approach","selectedOption":"top-down approach","isCorrect":true,"type":"MCQ"}]
