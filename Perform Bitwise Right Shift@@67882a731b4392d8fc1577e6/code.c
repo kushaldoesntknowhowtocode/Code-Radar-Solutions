@@ -13,7 +13,7 @@ int main() {
     int result = number >> shift;
     
     // Print the result
-    printf("%d"result);
+    printf("%d",result);
     
     return 0;
 }
