@@ -4,7 +4,7 @@ int main() {
     int num;
     
     // Read the input
-    printf("Enter the number: ");
+ 
     scanf("%d", &num);
     
     // Define the mask for the MSB (assuming 32-bit integer)
