@@ -13,7 +13,7 @@ int main() {
     int bit_value = (num >> bit_position) & 1;
 
     // Print the result
-    printf("%d\n", bit_position, bit_value);
+    printf("%d\n",bit_value);
 
     return 0;
 }
