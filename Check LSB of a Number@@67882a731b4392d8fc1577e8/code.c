@@ -4,7 +4,11 @@ int main() {
     int num;
     // Read the input
     scanf("%d", &num);
-    // Perform the bitwise one's complement operation and print the result
-    printf("%d\n", ~num);
+    // Check the LSB
+    if (num & 1) {
+        printf("Set\n");
+    } else {
+        printf("Not Set\n");
+    }
     return 0;
 }
