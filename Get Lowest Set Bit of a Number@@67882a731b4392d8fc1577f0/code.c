@@ -15,12 +15,12 @@ int getLowestSetBitPosition(int num) {
 
 int main() {
     int num;
-    printf("Enter a number: ");
+    
     scanf("%d", &num);
     
     int position = getLowestSetBitPosition(num);
     if (position == -1) {
-        printf();
+        
     } else {
         printf("%d\n", position);
     }
