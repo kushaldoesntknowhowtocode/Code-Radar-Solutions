@@ -14,6 +14,6 @@ void positive_negative_zero(int a){
  int main(){
         int a;
         scanf("%d",&a);
-        positive_negative_zero(int a);
+        positive_negative_zero(a);
         return 0;
     }
