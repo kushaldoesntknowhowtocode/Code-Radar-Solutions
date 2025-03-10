@@ -8,6 +8,7 @@ void grater_of_two_int(int a,int b){
 
 }
 int main(){
+    int a,b;
     scanf("%d %d",&a,&b);
     grater_of_two_int(a,b);
     return 0;
