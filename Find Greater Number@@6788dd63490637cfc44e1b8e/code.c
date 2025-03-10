@@ -5,7 +5,7 @@ void grater_of_two_int(int a,int b){
     }else{
         printf("%d",b);
     }
-    return 0;
+
 }
 int main(){
     scanf("%d %d",&a,&b);
