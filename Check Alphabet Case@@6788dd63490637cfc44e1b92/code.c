@@ -5,7 +5,7 @@ void upper_lower(char str){
 }else if(str>='a'&&str<='z'){
     printf("Lowercase");
 }else{
-    printf("Not an alphabet")
+    printf("Not an alphabet");
 }
 }
 int main(){
