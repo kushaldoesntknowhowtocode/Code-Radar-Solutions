@@ -2,8 +2,10 @@
 void upper_lower(char str){
     if(str>='A'&&str<='Z'){
     printf("Uppercase");
-}else{
+}else if(str>='a'&&str<='z'){
     printf("Lowercase");
+}else{
+    printf("Not an alphabet")
 }
 }
 int main(){
