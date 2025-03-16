@@ -10,7 +10,7 @@ void leapyear(int year) {
 
 int main() {
     int year;
-    printf("Enter a year: ");
+    
     scanf("%d", &year);
     leapyear(year);
     return 0;
