@@ -9,7 +9,7 @@ void divisible(int a){
 }
 int main(){
     int a;
-    scanf("%d",a);
+    scanf("%d",&a);
     divisible(a);
     return 0;
 }
