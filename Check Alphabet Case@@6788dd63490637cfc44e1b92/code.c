@@ -1,6 +1,6 @@
 #include <stdio.h>
 void upper_lower(char str){
-    if(char>='A'&&char<='Z'){
+    if(str>='A'&&str<='Z'){
     printf("Uppercase");
 }else{
     printf("Lowercase");
