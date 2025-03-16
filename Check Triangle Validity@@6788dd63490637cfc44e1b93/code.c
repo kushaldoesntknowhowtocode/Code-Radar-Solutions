@@ -1,6 +1,6 @@
 #include <stdio.h>
 void triangle(int a,int b,int c){
-    if(((a^2)+(b^2))==(c^2)){
+    if(((a*a)+(b*b))==(c*c)){
         printf("Valid");
     }else{
         printf("Invalid");
