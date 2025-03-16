@@ -11,4 +11,5 @@ int main(){
     int a;
     scanf("%d",a);
     divisible(a);
+    return 0;
 }
