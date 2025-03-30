@@ -4,7 +4,7 @@ int main() {
     char grade;
 
     // Input: Read a grade character
-    printf("Enter a grade (A, B, C, D, F): ");
+
     scanf(" %c", &grade);
 
     // Grade evaluation using switch-case
