@@ -4,10 +4,9 @@
 int main() {
     double num1, num2;
 
-    // Input both numbers
-  
+
     scanf("%lf", &num1);
-    
+
     scanf("%lf", &num2);
 
     // Check if the first number is the square root of the second
