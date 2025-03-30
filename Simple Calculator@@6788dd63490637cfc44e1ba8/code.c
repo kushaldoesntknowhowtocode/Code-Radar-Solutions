@@ -6,7 +6,6 @@ int main() {
     float result;
 
 
-    printf("Enter two integers: ");
     scanf("%d %d", &num1, &num2);
     scanf(" %c", &operator);
 
