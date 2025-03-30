@@ -35,9 +35,8 @@ int main() {
     // Print the rotated array
 
     for (int i = 0; i < n; i++) {
-        printf("%d ", arr[i]/n);
+        printf("%d ", arr[i]);
     }
-    
-    printf("\n");
+
     return 0;
 }
