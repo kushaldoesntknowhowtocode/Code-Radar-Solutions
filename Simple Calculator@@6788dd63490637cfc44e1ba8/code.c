@@ -3,7 +3,7 @@
 int main() {
     int num1, num2;
     char operator;
-    float result;
+    int result;
 
 
     scanf("%d %d", &num1, &num2);
