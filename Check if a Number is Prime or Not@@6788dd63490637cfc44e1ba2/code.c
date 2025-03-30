@@ -21,7 +21,7 @@ int main() {
     if (isPrime) {
         printf("Prime");
     } else {
-        printf("not Prime");
+        printf("Not Prime");
     }
 
     return 0;
