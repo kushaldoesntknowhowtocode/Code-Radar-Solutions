@@ -6,10 +6,10 @@ void senior(int age){
     }else{
         printf("Not Eligible");
     }
-    return 0;
 }
 int main(){
     int age;
     scanf("%d",&age);
     senior(age);
+    return o;
 }
