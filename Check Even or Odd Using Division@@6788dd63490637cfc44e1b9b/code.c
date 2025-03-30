@@ -2,9 +2,8 @@
 
 int main() {
     int i;
-    printf("Enter a number: ");
-    scanf("%d", &i);  // Read input from the user
-
+   
+    scanf("%d", &i);  
     if ((i % 2) == 1) {
         printf("Odd\n");
     } else {
