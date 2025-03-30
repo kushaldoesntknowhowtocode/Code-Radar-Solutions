@@ -11,5 +11,5 @@ int main(){
     int age;
     scanf("%d",&age);
     senior(age);
-    return o;
+    return 0;
 }
